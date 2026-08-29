@@ -41,18 +41,11 @@
 ---
 
 
-## 📈 Results
-1. Average Selling Price by Fuel Type
-Insight: Diesel cars generally command higher average selling prices than Petrol and CNG cars in the dataset.
-2. Average Selling Price by Transmission
-Insight: Automatic cars have a higher average selling price than Manual cars, indicating greater resale value for automatic vehicles.
-3. Car Model Price Analysis
-Insight: Land Cruiser and Fortuner are among the highest-priced repeatedly listed models.
-4. Average Selling Price by Seller Type
-Insight: Dealer cars have a higher average selling price than individual cars.
-5. Present Price vs Selling Price
-Insight: Present price shows a strong positive relationship with selling price, meaning higher-priced cars generally have higher resale values.
-6. Manufacturing Year vs Average Selling Price
-Insight: Newer cars generally have higher average selling prices, while older vehicles tend to have lower resale values.
-7. Kilometers Driven vs Selling Price
-Insight: Kilometers driven shows a weak relationship with selling price, indicating that mileage alone does not strongly determine resale value.
+## 📈 Results/ Insights
+- Average Selling Price by Fuel Type:  Diesel cars generally command higher average selling prices than Petrol and CNG cars in the dataset.
+- Average Selling Price by Transmission: Automatic cars have a higher average selling price than Manual cars, indicating greater resale value for automatic vehicles.
+- Car Model Price Analysis: Land Cruiser and Fortuner are among the highest-priced repeatedly listed models.
+- Average Selling Price by Seller Type: Dealer cars have a higher average selling price than individual cars.
+- Present Price vs Selling Price: Present price shows a strong positive relationship with selling price, meaning higher-priced cars generally have higher resale values.
+- Manufacturing Year vs Average Selling Price: Newer cars generally have higher average selling prices, while older vehicles tend to have lower resale values.
+- Kilometers Driven vs Selling Price: Kilometers driven shows a weak relationship with selling price, indicating that mileage alone does not strongly determine resale value.
